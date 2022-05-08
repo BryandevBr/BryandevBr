@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bryanjames19
-- 👀 I’m interested in Javascript, Phyton;
-- 🌱 I’m currently learning Js
+- 👀 I’m interested in Javascript;
+- 🌱 I’m currently learning Js;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
